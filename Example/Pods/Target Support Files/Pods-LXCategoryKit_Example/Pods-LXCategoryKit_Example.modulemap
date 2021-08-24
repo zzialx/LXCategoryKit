@@ -1,0 +1,6 @@
+framework module Pods_LXCategoryKit_Example {
+  umbrella header "Pods-LXCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
